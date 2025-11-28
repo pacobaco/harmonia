@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+transformers
+librosa
+numpy
+soundfile
+openai
+faiss-cpu
